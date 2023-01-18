@@ -1,4 +1,3 @@
-using FarPoint.Excel;
 using FarPoint.Win.Spread;
 using FarPoint.Win.Spread.Data;
 using System.ComponentModel;
